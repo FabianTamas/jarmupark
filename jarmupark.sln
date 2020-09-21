@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jarmupark", "jarmupark\jarmupark.csproj", "{622267A7-5910-40E8-9034-7D5D6EBD682D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{622267A7-5910-40E8-9034-7D5D6EBD682D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{622267A7-5910-40E8-9034-7D5D6EBD682D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{622267A7-5910-40E8-9034-7D5D6EBD682D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{622267A7-5910-40E8-9034-7D5D6EBD682D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E214661E-F795-402F-BF80-7C5E097AEC52}
+	EndGlobalSection
+EndGlobal
