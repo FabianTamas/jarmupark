@@ -25,12 +25,12 @@ namespace jarmupark
             Console.Write("Mennyit megy a lada? ");
             int km = int.Parse(Console.ReadLine());
             lada.Megy(km);
-            lada.Allapot();
+            Console.WriteLine($"Maradt: {lada.UZEMANYAG} l - {lada.MEGTEHETOKM} km"); 
 
-            Console.Write("Mennyit megy a trabant? ");
+            /*Console.Write("Mennyit megy a trabant? ");
             int km1 = int.Parse(Console.ReadLine());
             lada.Megy(km1);
-            lada.Allapot();
+            Console.WriteLine($"Maradt: {trabant.UZEMANYAG} l - {trabant.MEGTEHETOKM} km");*/
 
 
             Console.ReadKey();
